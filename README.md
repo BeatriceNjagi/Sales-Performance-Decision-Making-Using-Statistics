@@ -18,9 +18,11 @@ To evaluate whether the marketing campaign increased revenue, the following hypo
 
 ### Interpretation
 
-- The extremely small p-value means the results are statistically significant. This supports the conclusion that mean revenue during the campaign period is higher than during the no-campaign period.
-- The effect size of 0.262 indicates a moderate practical impact. This means the increase in revenue is noticeable and meaningful, although not extremely large.
-- Overall, the statistical evidence suggests that the marketing campaign is contributing to increased revenue.
+- The very small p-value (0.0000162) indicates strong statistical evidence against the null hypothesis. This means we can confidently conclude that the mean revenue during the campaign period is higher than the mean revenue during the no-campaign period.
+
+- The effect size (Cohen’s d = 0.262) suggests a small to moderate practical impact. While the increase in revenue is statistically significant, the actual magnitude of the effect is modest, meaning the campaign has a noticeable but not very large effect on revenue.
+
+- Overall: The analysis shows that the marketing campaign has a positive impact on revenue, both statistically and practically, though the practical effect is moderate.
 
 ## Sales Performance Summary
 
