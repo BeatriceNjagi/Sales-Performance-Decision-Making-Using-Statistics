@@ -104,4 +104,3 @@ The analysis confirms that the marketing campaign has a statistically significan
 
 ---
 
-*Analysis by [Beatrice Njagi](https://github.com/BeatriceNjagi)*
