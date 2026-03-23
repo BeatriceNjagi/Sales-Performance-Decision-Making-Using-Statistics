@@ -18,8 +18,8 @@ This project uses statistical analysis on monthly revenue data to answer three p
 
 - **Python** — data analysis and statistical testing
 - **Pandas** — data manipulation
-- **SciPy / Statsmodels** — hypothesis testing
-- **Matplotlib / Seaborn** — visualisation
+- **Statsmodels** — hypothesis testing
+- **Matplotlib** — visualisation
 
 ---
 
